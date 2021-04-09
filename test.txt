@@ -1,2 +1,2 @@
 Hello welcome to git tutorial.
-Comit, push.
+Comit, push. pull
